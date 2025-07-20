@@ -5,8 +5,8 @@ const resources = {
   en: {
     translation: {
       title: "Food Price Dashboard",
-      lineTitle: "Price of {{item}} Over Time",
-      barTitle: "Average Prices by Food",
+      lineTitle: "Price of {{item}} in a Year",
+      barTitle: "Average Prices by Food (Year)",
       selectYear: "Select Year",
       selectFood: "Select Food Item",
       tomato: "Tomato",
@@ -19,8 +19,8 @@ const resources = {
   fr: {
     translation: {
       title: "Tableau de Bord des Prix Alimentaires",
-      lineTitle: "Prix de {{item}} au fil du temps",
-      barTitle: "Prix Moyens par Aliment",
+      lineTitle: "Prix de {{item}} dans un ans",
+      barTitle: "Prix Moyens par Aliment (L'année)",
       selectYear: "Choisir l'année",
       selectFood: "Choisir un aliment",
       tomato: "Tomate",
